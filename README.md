@@ -1,2 +1,3 @@
 # ML_Linear_Algebra_Journey
-Project Goal: SA one-week study plan for Linear Algebra
+Project Goal: SA One-Week Journey into Linear Algebra for ML.
+
