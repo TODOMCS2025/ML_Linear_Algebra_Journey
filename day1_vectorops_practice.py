@@ -61,6 +61,7 @@ print("\nComplex example:")
 print("v3 =", v3)
 print("v4 =", v4)
 print("v3 + v4 =", v3 + v4)
+#scalar multiplication and substraction
 print("2*v3 - 3*v4 =", 2*v3 - 3*v4)
 
 
