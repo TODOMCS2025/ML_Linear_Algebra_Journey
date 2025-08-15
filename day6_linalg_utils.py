@@ -8,7 +8,6 @@ A collection of essential linear algebra functions including:
 - Linear system solving
 - Utility functions
 
-Author: ML Linear Algebra Journey
 Date: 2025-08-14
 """
 
