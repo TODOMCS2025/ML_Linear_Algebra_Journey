@@ -1,3 +1,8 @@
+### Day 1: Foundations of Linear Algebra - Vector Operations Practice
+### Basic vector operations 
+### Using lists and NumPy arrays
+### Element-wise operations, scalar multiplication, dot product
+### Date: 2025-08-06
 x = 1
 
 listNames = ["Alice", "Bob", "Charlie"] 

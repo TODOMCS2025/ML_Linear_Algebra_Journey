@@ -1,4 +1,7 @@
-# day6_similarity_analysis.py
+### Day 5: Applied Analysis - Quantifying Semantic Similarity
+### Using Bag-of-Words model for text vectorization
+### Calculating Cosine Similarity and Euclidean Distance
+### Date: 2025-08-13
 
 import numpy as np
 

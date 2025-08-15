@@ -1,3 +1,7 @@
+### Day 2: Core Vector Operations with Numpy - Vector Operations Practice
+### Using NumPy arrays for vector operations
+### Element-wise operations, dot product, norms
+### Date: 2025-08-08
 import numpy as np
 
 array1 = np.array([1, 2, 3])

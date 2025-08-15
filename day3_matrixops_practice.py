@@ -1,3 +1,8 @@
+### Day 3: Matrices - Matrix Operations Practice
+### Using NumPy arrays for matrix operations
+### Element-wise operations, matrix multiplication
+### Date: 2025-08-11
+
 import numpy as np
 
 matrix1 = np.array([[1, 2], [3, 4]])

@@ -1,3 +1,8 @@
+### Day 4: Inverses and Determinants - Advanced Linear Algebra Practice
+### Using NumPy for matrix inverses and determinants
+### Floating-point precision issues and solutions
+### Date: 2025-08-12
+
 import numpy as np
 
 matrix2X2 = np.array([[1, 2], [3, 4]])
