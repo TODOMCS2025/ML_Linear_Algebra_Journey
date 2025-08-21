@@ -95,3 +95,4 @@ plt.ylabel("y")
 plt.title("Normal Equation Linear Regression")
 plt.legend()
 plt.show()
+
